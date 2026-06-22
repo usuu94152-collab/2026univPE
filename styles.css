@@ -57,7 +57,6 @@ body::before {
 }
 
 body.detail-mode .hero,
-body.detail-mode .metrics,
 body.detail-mode #schools,
 body.detail-mode #verification {
   display: none;
@@ -141,17 +140,17 @@ h4 {
 .hero {
   position: relative;
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(360px, 1.1fr);
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
   max-width: 1160px;
-  min-height: calc(100vh - 82px);
+  min-height: 0;
   margin: 0 auto;
-  padding: clamp(48px, 7vw, 92px) 20px 44px;
-  gap: clamp(32px, 5vw, 74px);
+  padding: clamp(40px, 6vw, 72px) 20px 24px;
+  gap: 24px;
 }
 
 .hero-copy {
-  max-width: 620px;
+  max-width: 780px;
 }
 
 .eyebrow {
@@ -227,68 +226,6 @@ h1 {
 .button:hover,
 .school-actions a:hover {
   transform: translateY(-1px);
-}
-
-.hero-media {
-  position: relative;
-  margin: 0;
-  border-radius: 18px;
-}
-
-.hero-media::before {
-  content: "";
-  position: absolute;
-  inset: 30px -18px -20px 18px;
-  z-index: -1;
-  border-radius: 18px;
-  background: var(--dark);
-  box-shadow: var(--shadow);
-}
-
-.hero-media img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 16 / 10;
-  object-fit: cover;
-  border: 1px solid rgba(255, 255, 255, 0.8);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
-}
-
-.metrics {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  max-width: 1160px;
-  margin: 0 auto 18px;
-  padding: 0 20px;
-  gap: 12px;
-}
-
-.metrics article {
-  min-height: 128px;
-  padding: 26px 28px;
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  background: #fff;
-  box-shadow: var(--shadow-soft);
-}
-
-.metrics strong {
-  display: block;
-  color: var(--dark);
-  font-size: clamp(32px, 5vw, 54px);
-  font-weight: 400;
-  font-feature-settings: "tnum";
-  line-height: 1;
-  letter-spacing: -0.96px;
-}
-
-.metrics span {
-  display: block;
-  margin-top: 10px;
-  color: var(--muted);
-  font-size: 13px;
-  font-weight: 400;
 }
 
 .section {
@@ -933,7 +870,6 @@ select:focus {
     max-width: 760px;
   }
 
-  .metrics,
   .material-grid,
   .status-grid,
   .school-list,
@@ -987,7 +923,6 @@ select:focus {
     letter-spacing: -0.9px;
   }
 
-  .metrics,
   .material-grid,
   .status-grid,
   .school-list,
@@ -996,17 +931,9 @@ select:focus {
     grid-template-columns: 1fr;
   }
 
-  .metrics {
-    padding: 0 16px;
-  }
-
   .hero {
     padding-right: 16px;
     padding-left: 16px;
-  }
-
-  .hero-media::before {
-    inset: 18px -8px -12px 8px;
   }
 
   .panel-heading,
@@ -1026,10 +953,6 @@ select:focus {
 
   .table-wrap table {
     min-width: 680px;
-  }
-
-  .metrics article {
-    min-height: 106px;
   }
 
   .school-card {
