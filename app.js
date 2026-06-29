@@ -168,7 +168,24 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function normalizeSearchText(value) {
+  return String(value).normalize("NFKC").toLowerCase();
+}
+
+function detailSearchText(value) {
+  if (value == null) return [];
+  if (Array.isArray(value)) return value.flatMap(detailSearchText);
+  if (typeof value === "object") {
+    return Object.entries(value).flatMap(([key, entry]) => {
+      if (/url|fileId|qrImage/i.test(key)) return [];
+      return [key, ...detailSearchText(entry)];
+    });
+  }
+  return [String(value)];
+}
+
 function searchableText(school) {
+  const resource = schoolResource(school);
   return [
     padNo(school.no),
     school.region,
@@ -176,13 +193,18 @@ function searchableText(school) {
     school.campus || "",
     school.fileName || "",
     school.grade ? "실기등급표" : "등급표없음",
+    ...detailSearchText(resource.summary),
+    ...detailSearchText(resource.schoolInfo),
+    ...detailSearchText(resource.admissionsSections),
+    ...detailSearchText(resource.evidenceImages),
   ]
     .join(" ")
+    .normalize("NFKC")
     .toLowerCase();
 }
 
 function filteredSchools() {
-  const query = state.query.trim().toLowerCase();
+  const query = normalizeSearchText(state.query.trim());
   return schools.filter((school) => {
     const matchesRegion = state.region === "전체" || school.region === state.region;
     const matchesQuery = !query || searchableText(school).includes(query);
