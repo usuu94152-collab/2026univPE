@@ -101,8 +101,7 @@ h4 {
   backdrop-filter: blur(18px);
 }
 
-.brand,
-.site-header nav {
+.brand {
   display: flex;
   align-items: center;
   gap: 12px;
@@ -124,17 +123,6 @@ h4 {
   color: #fff;
   font-size: 14px;
   font-feature-settings: "tnum";
-}
-
-.site-header nav {
-  gap: clamp(10px, 3vw, 28px);
-  color: var(--muted);
-  font-size: 14px;
-  font-weight: 400;
-}
-
-.site-header nav a:hover {
-  color: var(--primary);
 }
 
 .hero {
@@ -911,11 +899,6 @@ select:focus {
     flex-direction: column;
     gap: 10px;
     border-radius: 10px;
-  }
-
-  .site-header nav {
-    width: 100%;
-    justify-content: space-between;
   }
 
   h1 {
