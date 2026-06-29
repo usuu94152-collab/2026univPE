@@ -848,13 +848,8 @@ select:focus {
   gap: 16px;
 }
 
-.footer-warning,
 .footer-credit {
   margin: 0;
-}
-
-.footer-warning {
-  color: var(--ink-secondary);
 }
 
 @media (max-width: 980px) {
