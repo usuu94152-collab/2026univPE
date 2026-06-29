@@ -135,20 +135,13 @@ function driveThumbnailUrl(fileId) {
   return `https://drive.google.com/thumbnail?id=${fileId}&sz=w1200`;
 }
 
-function draftQuery(school) {
-  return `${padNo(school.no)}_${fileBaseName(school)}_2027_수시_체육계열_자동생성_초안.hwpx`;
-}
-
 function guideQuery(school) {
   return `${school.no}.${fileBaseName(school)}_2027_수시모집요강.pdf`;
 }
 
 function schoolResource(school) {
   return {
-    draftUrl: driveSearchUrl(draftQuery(school)),
     guideUrl: driveSearchUrl(guideQuery(school)),
-    previewFolderUrl: driveSearchUrl(`${padNo(school.no)}_${fileBaseName(school)} 핵심페이지`),
-    evidenceFolderUrl: driveSearchUrl(`${padNo(school.no)}_${fileBaseName(school)} 근거페이지`),
     admissionsSections: [],
     evidenceImages: [],
     ...schoolResourceOverrides[school.no],

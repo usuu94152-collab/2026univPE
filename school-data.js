@@ -1,8 +1,6 @@
 window.schoolResourceOverrides = {
   "1": {
-    "draftUrl": "https://drive.google.com/file/d/14HXXnmIlZI6wM_z1G-F1n7XJoL5ZJ2lr/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1FPo7cV5XF5pNA_cLGPeTT5zxBN64_iBP/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1LJKPoVPIgjoWIHnhhlJISwSrBSa6H7mj",
     "qrImage": "assets/qr-001.png",
     "schoolInfo": {
       "주소": "서울특별시 성북구 정릉로 77"
@@ -298,9 +296,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "2": {
-    "draftUrl": "https://drive.google.com/file/d/1tqLopb5SS1jmSTsNF7LlhbupFznmBVWZ/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1VmLmXKP86gYv3-1shBfiQ5qSSKYThz4z/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/12-X1EhdFPPdes6g6PHYQjtNZaZtjEURx",
     "qrImage": "assets/qr-002.png",
     "schoolInfo": {
       "주소": "서울특별시 중구 필동로 1길 30"
@@ -554,9 +550,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "3": {
-    "draftUrl": "https://drive.google.com/file/d/1M9y51vf318k8vbQEeyFu656zJ-bG1KUy/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/10ZjVdIRDd3qnCSUBjfVpNRJ2pgowvt7m/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1qsMZt2Sj7Ey6WWvHupv-8HqtwWILN8SX",
     "qrImage": "assets/qr-003.png",
     "schoolInfo": {
       "주소": "서울특별시 관악구 관악로 1"
@@ -755,9 +749,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "4": {
-    "draftUrl": "https://drive.google.com/file/d/1mx2VFTCUAzs9WlK1I0uR4aivuG2gZ5EM/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1-x-le74pP_ZxXM5T3FHmYzbVjU2cNSAI/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1rsOG-kzrlqTTgOY-E7Tk4ubxfQVWwont",
     "qrImage": "assets/qr-004.png",
     "schoolInfo": {
       "주소": "서울특별시 동대문구 서울시립대로 163(전농동)"
@@ -933,9 +925,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "5": {
-    "draftUrl": "https://drive.google.com/file/d/1pY60slRmUk6eKMvXsc_UxP8HPZvW2GGA/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1cXs1WDMDpHkRm2tjvxjWlW64SBxQurJN/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/19Lc2Ezuh8YCAIBHCc_AyPKDaf4E7sskF",
     "qrImage": "assets/qr-005.png",
     "schoolInfo": {
       "주소": "경기도 수원시 장안구 서부로 2066"
@@ -1204,9 +1194,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "6": {
-    "draftUrl": "https://drive.google.com/file/d/1kn819LFu3WJxwBbHV1ZzmHAt6jIRW_fB/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1mPVu3PvtCjwO6gSD-iatwNsOf4IzuDr-/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1xh5M7pEGtKsSCHce78WC2WTHvQNcSoJQ",
     "qrImage": "assets/qr-006.png",
     "schoolInfo": {
       "주소": "서울캠퍼스 서울특별시 동작구 흑석로 84 / 다빈치캠퍼스 경기도 안성시 대덕면 서동대로 4726"
@@ -1582,9 +1570,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "7": {
-    "draftUrl": "https://drive.google.com/file/d/1siErAxb3FBUz0bjzznoF1bXgR18PylFI/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1sMUpDsTJkZC-cj-IxVEE7PPWZjPelgya/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1SFS0x8x3hCPoYlst04cT_mGSIKbZPMSo",
     "qrImage": "assets/qr-007.png",
     "schoolInfo": {
       "주소": "서울특별시 성동구 왕십리로 222"
@@ -1840,9 +1826,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "8": {
-    "draftUrl": "https://drive.google.com/file/d/15lkGX1UhJBYLse2fsnOiqVG5X8PjrJG0/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1hn-2G-wttHDDdLWW9Q-Zfb8Jj3NUrgQE/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1fOwUNlekeP44vicXq0zKWHccaIaNo--j",
     "qrImage": "assets/qr-008.png",
     "schoolInfo": {
       "주소": "서울특별시 서대문구 이화여대길 52"
@@ -2074,9 +2058,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "9": {
-    "draftUrl": "https://drive.google.com/file/d/1xkUBbhkkNR1f7LEY0QWBhwphD83_F_zc/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/10O0cgkeEAtdH0KjJeb_i0JcpJzkRM766/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Vk7i97d5zvastHONko_2H6KSXKhaYmCo",
     "qrImage": "assets/qr-009.png",
     "schoolInfo": {
       "주소": "서울특별시 노원구 화랑로 621"
@@ -2313,9 +2295,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "10": {
-    "draftUrl": "https://drive.google.com/file/d/1RXBCZsScQhRUnRCsSBjVJJEASzITbUUs/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1iqVO3MqC1QnVZ15Pv__ULXLJWivtdzYo/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1QVRgZVxR30c3FBcpUzssivUZ4bIBAeSo",
     "qrImage": "assets/qr-010.png",
     "schoolInfo": {
       "주소": "서울특별시 용산구 청파로47길 100"
@@ -2581,9 +2561,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "11": {
-    "draftUrl": "https://drive.google.com/file/d/1gDUVq470B8m0WeSf4lObpBWriLcngNj5/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1TkRMGRVM-6s6C955hum53aUC1qfOYqVo/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1jtAu3Bb266LMpthWXOZyVQqeCNiilEwD",
     "qrImage": "assets/qr-011.png",
     "schoolInfo": {
       "주소": "서울특별시 송파구 양재대로 1239"
@@ -3178,9 +3156,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "12": {
-    "draftUrl": "https://drive.google.com/file/d/1Re4ztpB_zKFfpLzSJadZ2y-QiG32s57A/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1psnj3ULkxvRAOLtb8b1sPo-1G8Vityyf/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1qXUYza7r25_0Nz76brmMwAJBy7RQMUaN",
     "qrImage": "assets/qr-012.png",
     "schoolInfo": {
       "주소": "서울특별시 노원구 공릉로 232"
@@ -3383,9 +3359,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "13": {
-    "draftUrl": "https://drive.google.com/file/d/1vlbm42jRAmPokBb4dvgwCheLaXFGxQFf/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1TKW2bMNuJvNDc1H8UKIUWoRQq_UDvvZp/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/14Dn22ro0jB40lOgoRksMTKKITGdUr_Wd",
     "qrImage": "assets/qr-013.png",
     "schoolInfo": {
       "주소": "서울특별시 종로구 홍지문2길 20"
@@ -3658,9 +3632,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "14": {
-    "draftUrl": "https://drive.google.com/file/d/1-K-IDOyFFRhZY-P5HgkxaAbkrmGMqd1J/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1KAJ4PXK65MLsxoK1dPipEV56_PAkCCgC/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1jn0r0SgXjpyyd9NF8Is12m3HSYKPPXcS",
     "qrImage": "assets/qr-014.png",
     "schoolInfo": {
       "주소": "서울특별시 노원구 화랑로 815"
@@ -3966,9 +3938,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "15": {
-    "draftUrl": "https://drive.google.com/file/d/15rM-cxhwaPJFoZk1Iwm3rwDbWTavNIN6/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1rF75um-vNYYVrx779ahJ0yuAIpdeM71z/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1FBmAv56A4J50JkI8eZc1xGhkmfG1KO3f",
     "qrImage": "assets/qr-015.png",
     "schoolInfo": {
       "주소": "경기도 수원시 장안구 서부로 2066"
@@ -4228,9 +4198,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "16": {
-    "draftUrl": "https://drive.google.com/file/d/14DbxjgYYycD2a0TqOUIFMpajnv5GAERx/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1aH3YvXfiIO7s78sQ5qFKIGsH-9KJ0Kes/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1yxcFimFWppUhMah0D-0G5gDuYONNlaC1",
     "qrImage": "assets/qr-016.png",
     "schoolInfo": {
       "주소": "경기도 용인시 기흥구 덕영대로 1732"
@@ -4654,9 +4622,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "17": {
-    "draftUrl": "https://drive.google.com/file/d/1icg4FtAY2s5-XR6s7y0RqeaVOR3u8drr/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/11z_rnt-5XFIAcnmj5PIvTHUFeuPnoBSS/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1gXrKJuR2FZ2R8AHnPBqJy0oD5ItD6XBs",
     "qrImage": "assets/qr-017.png",
     "schoolInfo": {
       "주소": "경기도 안양시 만안구 성결대학로 53"
@@ -4941,9 +4907,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "18": {
-    "draftUrl": "https://drive.google.com/file/d/1AVQjotcS0_MbOc0yku-EI7oedUH_hn7b/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1f7l7QRkW-k1d-Aox4RmscaIRKRvOTFmt/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1OFeSxXTjwqp9qlrctmJGAUojXHXbEU0N",
     "qrImage": "assets/qr-018.png",
     "schoolInfo": {
       "주소": "경기도 용인시 처인구 용인대학로 134"
@@ -5567,9 +5531,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "19": {
-    "draftUrl": "https://drive.google.com/file/d/1HgpnNYOpBsYNufxmyCYq-XmYAWziCOOb/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1EHtWsllFfzZKQbDiOEZVcf17CfYr7ghO/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1mJb2YDEQhkYoPYpVQeap889ln67BGfRN",
     "qrImage": "assets/qr-019.png",
     "schoolInfo": {
       "주소": "경기도 용인시 수지구 죽전로 152"
@@ -5771,9 +5733,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "20": {
-    "draftUrl": "https://drive.google.com/file/d/1cfEL588GxIVyL0o3Nr_EUo9gUJiNqJqJ/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Vur_EodVFRmbOU_zfHAjWdcsqtgMh4Ao/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/14H8UsaC_PdN_xK8J3R7CstZvQQCcr9m3",
     "qrImage": "assets/qr-020.png",
     "schoolInfo": {
       "주소": "경기도 성남시 수정구 성남대로 1342"
@@ -6073,9 +6033,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "21": {
-    "draftUrl": "https://drive.google.com/file/d/1XbQu1u2P63u3PjidJe-vbc72581w58q7/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/11jfrWf2wtBSLmU9iny2AHxbAMMEcfEOA/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1oi5FteTfqO-MZbRsjCA18MeNdzyKvCOe",
     "qrImage": "assets/qr-021.png",
     "schoolInfo": {
       "주소": "경기도 의정부시 호암로 95"
@@ -6389,9 +6347,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "22": {
-    "draftUrl": "https://drive.google.com/file/d/1I-bZygdXI9ZzL45FwJir_h482TardsMk/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1uLmnFbX8wd-lYRyA7uyU1OYOENmrpoYQ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1qm6TgZ2QeUD1QdcRR7_r8tpq6CoS90EF",
     "qrImage": "assets/qr-022.png",
     "schoolInfo": {
       "주소": "경기도 포천시 호국로 1007(선단동)"
@@ -6623,9 +6579,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "23": {
-    "draftUrl": "https://drive.google.com/file/d/1ePxC9qjn7jCtZUJG_SXgy6kuLOcufFq4/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1ZEtWcZ5smIT-a0G0Naihqu1WkS7_nmu8/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1qkG32t-65cNUkgo_X-xjFRMH0RsL0mHi",
     "qrImage": "assets/qr-023.png",
     "schoolInfo": {
       "주소": "경기도 양주시 경동대학로 27"
@@ -6904,9 +6858,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "24": {
-    "draftUrl": "https://drive.google.com/file/d/1j_W14nJY0YAaXwzrECCnPH06WZ_7XzzL/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1ZgiaY4WwYfQ8m9drJ3Jo9hlnNFuvgo_Y/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1K1yQdWj4YB-Kb78bZj7PK-zASeX_Le-V",
     "qrImage": "assets/qr-024.png",
     "schoolInfo": {
       "주소": "경기도 안산시 상록구 한양대학로 55"
@@ -7161,9 +7113,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "25": {
-    "draftUrl": "https://drive.google.com/file/d/1SCwSnKy9AEQT_oWLbkmxOeMbRvF6KKhT/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Zv3G0LG_4fC5NLb1P8R_63qCsgxEBGe5/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1KB6r5GkoMOCtllHMqCsA0r8QYsrXo79A",
     "qrImage": "assets/qr-025.png",
     "schoolInfo": {
       "주소": "경기도 고양시 덕양구 동헌로 305"
@@ -7391,9 +7341,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "26": {
-    "draftUrl": "https://drive.google.com/file/d/1CtIuLOPIbyL8Dng9yZCajayzQmfTcnUI/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1X62ZsQ6Gw8Ut-jhWjmDYbVpvbs-ocjSp/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1e3hsKkFDTXBf2uce74c1v5T2rAZ8nT6V",
     "qrImage": "assets/qr-026.png",
     "schoolInfo": {
       "주소": "경기도 수원시 영통구 광교산로 154-42"
@@ -7721,9 +7669,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "27": {
-    "draftUrl": "https://drive.google.com/file/d/1rlt6kJkksmcHhf6c3iWbXbpFIknwxCBC/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/19Q8Q550E9F4e2bXwBZ0ZqCh_U9H8OYYV/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1wavIiOysUpyXzT6F2iVsm8mGh0Xa2wDu",
     "qrImage": "assets/qr-027.png",
     "schoolInfo": {
       "주소": "경기도 화성시 효행구 봉담읍 와우안길 17"
@@ -7987,9 +7933,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "28": {
-    "draftUrl": "https://drive.google.com/file/d/1xfEix-zHDthN0U6NZ06K6A4Hf67e4l-8/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/17Ffab1tDaRzP5QJLNiu95Cbx_NWcoAmb/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1z4g3Sx0ynqqhWCGQ67sQ_MIk62Ay_v5w",
     "qrImage": "assets/qr-028.png",
     "schoolInfo": {
       "주소": "인천광역시 연수구 아카데미로 119"
@@ -8348,9 +8292,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "29": {
-    "draftUrl": "https://drive.google.com/file/d/1InlyvfWbHvA0DmOZpULkfVpTa2kc7Emy/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1ca3vENStqIn2iNPHAr5nNNNh5bNhlglE/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/19M7WfTBD_BFgeKF9v1yBjWESwDCbMjXo",
     "qrImage": "assets/qr-029.png",
     "schoolInfo": {
       "주소": "인천광역시 미추홀구 인하로 100"
@@ -8676,9 +8618,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "30": {
-    "draftUrl": "https://drive.google.com/file/d/12oxx8I3frQpuAn-ebpBaVlYqe1NjHjtW/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1wVx2hchwd7KaqCRvrIT7QPOir3E9nzGd/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/14P9jG3LfeiUUdNPua6bQ0Yq_7YY8cKOF",
     "qrImage": "assets/qr-030.png",
     "schoolInfo": {
       "주소": "인천광역시 강화군 불은면 중앙로 602-14"
@@ -8961,9 +8901,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "31": {
-    "draftUrl": "https://drive.google.com/file/d/1QAQfGXfq4mRBqyarcFaxCpUHIYyCaMcn/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1ff9T6boHqP63UrGrTU-A21hh9LGwnmr4/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1LcAOiOr_YQsDP3wULbWMcezqs3gdWJCh",
     "qrImage": "assets/qr-031.png",
     "schoolInfo": {
       "주소": "대전광역시 동구 대학로 62"
@@ -9236,9 +9174,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "32": {
-    "draftUrl": "https://drive.google.com/file/d/1KXwKe7Z6G9q_iQDFsJKo97whVxB5EzqW/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1T-WphTgobEZVo6OmksbhiYyF4wUKGTFM/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/10I2dBRociOU-YnFaaeTjXSS2b0ljjt6N",
     "qrImage": "assets/qr-032.png",
     "schoolInfo": {
       "주소": "대전광역시 유성구 대학로 99"
@@ -9505,9 +9441,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "33": {
-    "draftUrl": "https://drive.google.com/file/d/121NsmOqRETIag4VLDuzZ-5ahBvfPXLV6/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1jiF8gAQG3JgV9qxIjjpVJdyfj7yQY1_Q/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Z9Vvbq6I2DqETZjP6zGZRbzFl9e_payg",
     "qrImage": "assets/qr-033.png",
     "schoolInfo": {
       "주소": "대전광역시 대덕구 한남로 70"
@@ -9767,9 +9701,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "34": {
-    "draftUrl": "https://drive.google.com/file/d/1Nr7DWAPap-tGBeoQwtcQNWqhfmyagj00/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1kw5f9BKR8lsEzPBwJglD9r5dhDVDNsJK/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/12NJJ4Pz4Z0VzsflfX8l2lOS6E_UX3IZp",
     "qrImage": "assets/qr-034.png",
     "schoolInfo": {
       "주소": "대전광역시 동구 동대전로 171"
@@ -10072,9 +10004,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "35": {
-    "draftUrl": "https://drive.google.com/file/d/12JMsIdW02MavJ03-ExrEI6uDi0wqMwJw/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1E08lcmHf_8cHtwh_A11PpwYVbyKKg2vP/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1HGpynlyzaocCe1JPTfFuOWxJNaNzDSpT",
     "qrImage": "assets/qr-035.png",
     "schoolInfo": {
       "주소": "세종특별자치시 세종로 2511"
@@ -10408,9 +10338,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "36": {
-    "draftUrl": "https://drive.google.com/file/d/1idF6ZFSpASbZNJvQ4bKd9EGuzgIBz-wu/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1FGNzTK6SSvNL_wrs_WqzzkD92ToZ9H0H/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1wMzZwmVufjnLkqQA7_S0e5NF9grncZed",
     "qrImage": "assets/qr-036.png",
     "schoolInfo": {
       "주소": "대전광역시 서구 도안북로 88"
@@ -10677,9 +10605,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "37": {
-    "draftUrl": "https://drive.google.com/file/d/1e_Rq8ZGspjhkAYX_wH73OajTTc6hD41Y/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1LprTLXFi53MQ4k5jefPdx2SQ-3HOyGJd/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/12hyWxd6vndXS9lxoJ8uy1GhUYyiqk9q2",
     "qrImage": "assets/qr-037.png",
     "schoolInfo": {
       "주소": "강원특별자치도 강릉시 범일로579번길 24"
@@ -11041,9 +10967,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "38": {
-    "draftUrl": "https://drive.google.com/file/d/1w5pf9USactnTHqwDUoHW7ohl5PyWSgjy/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/18QDw7NrBt6elk4FKfP64pjkzxlqZdVnQ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1odq3DASRqnB8i_sCcdHwLg8eUAtwFJBG",
     "qrImage": "assets/qr-038.png",
     "schoolInfo": {
       "주소": "춘천캠퍼스 강원특별자치도 춘천시 강원대학길 1 / 삼척캠퍼스 강원특별자치도 삼척시 중앙로 346"
@@ -11519,9 +11443,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "39": {
-    "draftUrl": "https://drive.google.com/file/d/1eVPGya2Q-SYAlTD7NKVg5kY2cFOWICBT/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1LYAzLbfHAFJ7zECkNrp_nPLDZ_2ocHyn/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1pFSsPCJD-Pcg2elLSJ8nwu-Ma3Lo8E6c",
     "qrImage": "assets/qr-039.png",
     "schoolInfo": {
       "주소": "강원특별자치도 춘천시 한림대학길 1"
@@ -11824,9 +11746,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "40": {
-    "draftUrl": "https://drive.google.com/file/d/18l-Bouie_SDku5ICwbF58bnOUtOLOrTR/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1kCf5wCrOBciwl8WSpsWbO_OA0VPjKyqO/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1_eyWwmPI-V8tBnGlOH8sb2VlCw8CWr5-",
     "qrImage": "assets/qr-040.png",
     "schoolInfo": {
       "주소": "강원특별자치도 원주시 상지대길 83"
@@ -12206,9 +12126,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "41": {
-    "draftUrl": "https://drive.google.com/file/d/1zfjVKd-NSENXNuQf8QuHTwtk4I1lcllb/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1GF-scXbIEuNcip93Z9T-HcnvprZoX7A6/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1eE6Mn3Ep2K4X4IphWROr4gNhw1cydTRl",
     "qrImage": "assets/qr-041.png",
     "schoolInfo": {
       "주소": "충청북도 청주시 흥덕구 강내면 태성탑연로 250"
@@ -12373,9 +12291,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "42": {
-    "draftUrl": "https://drive.google.com/file/d/1waTmFncqOuXVUwt-nffiHJhlxZTln7bF/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1bwGUzaelaLe1mrGrE1HLT_fGCMlvWoOE/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1EsoGFMpyjigZ0ArNf9XlRstS8EYK7la9",
     "qrImage": "assets/qr-042.png",
     "schoolInfo": {
       "주소": "충청북도 충주시 충원대로 268"
@@ -12662,9 +12578,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "43": {
-    "draftUrl": "https://drive.google.com/file/d/1zxAUD6r2KYUvXHGtiQqQIStdSLbRdVK7/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/10p6KZszpJMM1Hpa4Rxh0m4MWXJt2UMD5/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1n8Kj2Yw9vcFdwTJZE2dm9w1i0TjC_dkf",
     "qrImage": "assets/qr-043.png",
     "schoolInfo": {
       "주소": "충청북도 청주시 서원구 무심서로 377-3"
@@ -13156,9 +13070,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "44": {
-    "draftUrl": "https://drive.google.com/file/d/1sqvxrDjDGxyuuVoQTIDNvGe56AucJ8ew/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Ds6L-XI24taLrznwAQgZU0nbW1zgMFZd/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/137lO8AQFvElysCvXhWUZYZGnN0oWe9Ty",
     "qrImage": "assets/qr-044.png",
     "schoolInfo": {
       "주소": "충청북도 청주시 서원구 충대로 1"
@@ -13360,9 +13272,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "45": {
-    "draftUrl": "https://drive.google.com/file/d/14RmQt9gbcWKJG_o_74H1336I2qi1myvD/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Sz5JM6j5xuFyphXuGgInxKvOfvy9k13w/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1ddEfBMFjCMu1FiJcxFychz_3NYkn60ry",
     "qrImage": "assets/qr-045.png",
     "schoolInfo": {
       "주소": "충청북도 청주시 청원구 대성로 298"
@@ -13787,9 +13697,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "46": {
-    "draftUrl": "https://drive.google.com/file/d/1DivpSs9xOYpiHmq_eSViu3aSW55G0xao/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1l_-eDM6ebWO1_o8WuXePb1senz9lvPo_/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/13ik0yNehOrrJ0_JM1LwFyg1UGCaqSgFY",
     "qrImage": "assets/qr-046.png",
     "schoolInfo": {
       "주소": "충청남도 천안시 동남구 단대로 119"
@@ -14166,9 +14074,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "47": {
-    "draftUrl": "https://drive.google.com/file/d/1SWhysihcXTGXAKd8YoIuePiisIunD6cl/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/12LFAxiV_adN-5K_JuaQOwG9oC9VKtw77/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1nP4oNosvWsegkdaoXBj2CFLLa7ZFmQo0",
     "qrImage": "assets/qr-047.png",
     "schoolInfo": {
       "주소": "충청남도 천안시 동남구 백석대학로 1"
@@ -14594,9 +14500,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "48": {
-    "draftUrl": "https://drive.google.com/file/d/1mT-ibi4aOn46NFjMlkuBVLRT10XwRcqx/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1vVQaph9ERHMMSngkA5bIwWM-vm_3Luca/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Qq4GRFfaHKSisBlAPimK7ueu_XiMgeWn",
     "qrImage": "assets/qr-048.png",
     "schoolInfo": {
       "주소": "충청남도 아산시 신창면 순천향로 22"
@@ -15019,9 +14923,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "49": {
-    "draftUrl": "https://drive.google.com/file/d/1ZcFrxii7p117LevCnQ7Nn5Ws_1xO56GU/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1BDmSjwkO9uHz86-nsLMrPmzfIYt5IEl0/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1C5cXQwR9O1qOz3agaRLdt4Pzj_BwL9US",
     "qrImage": "assets/qr-049.png",
     "schoolInfo": {
       "주소": "충청남도 공주시 공주대학로 56"
@@ -15384,9 +15286,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "50": {
-    "draftUrl": "https://drive.google.com/file/d/1soJDnxME2RwOquYGV9JL-KCFbjffoCxC/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1oHl7vjlO8U54BWdIjZXwM0qUsQo68rMl/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Wty5z4WyQxtgkYGFmoN7DhdY2X2b9le9",
     "qrImage": "assets/qr-050.png",
     "schoolInfo": {
       "주소": "충청남도 논산시 대학로 121"
@@ -15636,9 +15536,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "51": {
-    "draftUrl": "https://drive.google.com/file/d/1BQcDp3KlikN83mmYOXmyHs3Wec82_yRY/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1KJNF_q24vJwYBNxWKY-QyrE42idqXYBJ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1bYKKpGPYQrVgss6IM9UtG_hBrcZPaQ9B",
     "qrImage": "assets/qr-051.png",
     "schoolInfo": {
       "주소": "충청남도 금산군 추부면 대학로 201"
@@ -16144,9 +16042,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "52": {
-    "draftUrl": "https://drive.google.com/file/d/1UFi_Ivwb0NCeDBE_gXOLu2AuTS-2rX85/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1AaCIKCCFonKPR77_9cpxsNlCzeO0bWu1/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/17ZDYJZDL_Y6TDtFZh8hNha7iqtyZnLSg",
     "qrImage": "assets/qr-052.png",
     "schoolInfo": {
       "주소": "충청남도 홍성군 홍성읍 대학길 25"
@@ -16380,9 +16276,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "53": {
-    "draftUrl": "https://drive.google.com/file/d/1l692dI4_PYLWHUH69GsIyVlme8Zw7ORY/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Gkeo6JHPmMMoeEjEzskXU8ymjqrgoq9w/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1zhwotLUYNislr7qgw4THsMrm_TGoh49p",
     "qrImage": "assets/qr-053.png",
     "schoolInfo": {
       "주소": "대구광역시 북구 대학로 80 / 상주: 경상북도 상주시 경상대로 2559"
@@ -16807,9 +16701,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "54": {
-    "draftUrl": "https://drive.google.com/file/d/131WWOSadjCP7B-M0kFY19eFy36SDa5h8/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1JhbBhiO5PdDlJolzqv2PVe_HR08NI8Dx/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1XUjgXnJKopQb4b-Ovoo3cpvk40vdWN7O",
     "qrImage": "assets/qr-054.png",
     "schoolInfo": {
       "주소": "대구광역시 달서구 달구벌대로 1095"
@@ -17331,9 +17223,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "55": {
-    "draftUrl": "https://drive.google.com/file/d/1rHPnSMxzZ6X17svRdTOyFi4AmPftlAVu/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1dIFKZiLqKJPjrfweEDG2PvIq0D3YleRZ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1wCptEhc8J0I_MjrfgC59edk4uZ3H3oZu",
     "qrImage": "assets/qr-055.png",
     "schoolInfo": {
       "주소": "경상북도 경산시 하양읍 가마실길 50"
@@ -17888,9 +17778,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "56": {
-    "draftUrl": "https://drive.google.com/file/d/1gaYuyrctIaI7svIOm9AMVQL8QP2_9gK2/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1nNDolD-FOOoxM2FLMXWeX8L5FsfFaF-F/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1h1GYe_BqxxeNCbC3yLuUIhXZhSwXbtpf",
     "qrImage": "assets/qr-056.png",
     "schoolInfo": {
       "주소": "경상북도 경산시 하양읍 하양로 13-13"
@@ -18244,9 +18132,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "57": {
-    "draftUrl": "https://drive.google.com/file/d/1UT0as5lrJhQbU5z8NEpSBYPXT7DxqRE1/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1DUv7HskkSoxVAkTe4CiGggrh5WdkR5la/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1mvWCHLpv83jT9mBVkKNh6S9J6AH1a1oo",
     "qrImage": "assets/qr-057.png",
     "schoolInfo": {
       "주소": "경상북도 경산시 진량읍 대구대로 201"
@@ -18661,9 +18547,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "58": {
-    "draftUrl": "https://drive.google.com/file/d/1fDDI0ZiOryyuaJ37Mbad6HnQCGdvr5qd/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/10uq6RS4xOhtZks5YH0wHFLMRm7v8jcb0/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Z_aCAAfEtQdHahNRX2M-BYR8WsxUPGYP",
     "qrImage": "assets/qr-058.png",
     "schoolInfo": {
       "주소": "경상북도 경산시 대학로 280"
@@ -19019,9 +18903,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "59": {
-    "draftUrl": "https://drive.google.com/file/d/1dbiJ6E57_EjskDrc3skL_PXF6BgQ4Cot/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1_GpfrErH-9eZMN7OizJR1vzg3MR9aVbt/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1__RpKv7LIA2hsLU_idkgbg7M0qNhRM-Z",
     "qrImage": "assets/qr-059.png",
     "schoolInfo": {
       "주소": "경상북도 상주시 경상대로 2559"
@@ -19422,9 +19304,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "60": {
-    "draftUrl": "https://drive.google.com/file/d/1N3Av28TE5lziJ6t78KYH7UrBydhei-g9/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1yiiHnXluGQ1BUkLTR8dHQssb2VVbM31F/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1SkDXIotSMJ0BtBnyPjPNfX5MhYr4wMUB",
     "qrImage": "assets/qr-060.png",
     "schoolInfo": {
       "주소": "경북 구미시 산동읍 강동로 730"
@@ -19811,9 +19691,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "61": {
-    "draftUrl": "https://drive.google.com/file/d/1PwQuhDYpG_FWQfoeEOo4iKudt5rqt5ps/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1bO858lTk3Q_asUbgNGVctLX8J_PmpUe3/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1T-zIwv1aRdI-Evu8uPkbAh9rTsq2e77-",
     "qrImage": "assets/qr-061.png",
     "schoolInfo": {
       "주소": "경북 김천시 대학로 214(삼락동)"
@@ -20042,9 +19920,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "62": {
-    "draftUrl": "https://drive.google.com/file/d/1PGX37kp4E7JFYDlUWk26qPpEchoKlEjl/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1odu-vYojFRxb4sttvlQtX2c-yxPUfuD0/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1QhgJde1WXtmmZcWjQbysZ_9FqF0gclOf",
     "qrImage": "assets/qr-062.png",
     "schoolInfo": {
       "주소": "경상북도 경주시 동대로 123"
@@ -20417,9 +20293,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "63": {
-    "draftUrl": "https://drive.google.com/file/d/1ii4RAV_T6saPQYJ8wUwgAKl4pCMtxd0m/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1F1yqLu9gKYqfOnmQwRAygHAQ5t1YH5x9/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1RA1xD97tno4Q_YUOY67QUcQzLLJlCJ7g",
     "qrImage": "assets/qr-063.png",
     "schoolInfo": {
       "주소": "경상북도 경주시 강동면 동해대로 261"
@@ -20773,9 +20647,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "64": {
-    "draftUrl": "https://drive.google.com/file/d/1cEhaTGFs_xzhZyttQ7t1XjG4y784qr2I/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1ogLtb90VcyHQP3tPvVAxO9e1VMwRiufj/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Bt6oGe_4ssfOVQUmYMy3k22PJhLzjME-",
     "qrImage": "assets/qr-064.png",
     "schoolInfo": {
       "주소": "경상북도 안동시 경동로 1375(송천동)"
@@ -21130,9 +21002,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "65": {
-    "draftUrl": "https://drive.google.com/file/d/1cOL_wZQ6noLbuTEKp_vXPrxSs8MsYUnZ/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1FkbrM24UDELmojANgK8SufOroZxDW0M1/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1caAX39cSx9wYxgY_0fZWM6NbqYyChejr",
     "qrImage": "assets/qr-065.png",
     "schoolInfo": {
       "주소": "부산광역시 금정구 부산대학로63번길 2"
@@ -21486,9 +21356,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "66": {
-    "draftUrl": "https://drive.google.com/file/d/1UVDOcKWZbdsMSUk-_t0ux1Jw1sZGdl6D/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1N1ZOfme1m5Ovv_xoLZbQRWrclXRfWcF3/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/139UhT3Kt9_QEDuaJV0jo9va1OeB3aV-n",
     "qrImage": "assets/qr-066.png",
     "schoolInfo": {
       "주소": "부산광역시 남구 용소로 45"
@@ -21746,9 +21614,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "67": {
-    "draftUrl": "https://drive.google.com/file/d/1ZejHemvlMxm6bUgistq1wlKIfnPspQuS/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1u6996zOQkC29M0P6kAgWjPn1EvJZZncQ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1LFxBkYigGWK-onBg-cxsGYjm7LckntTh",
     "qrImage": "assets/qr-067.png",
     "schoolInfo": {
       "주소": "부산광역시 영도구 태종로 727"
@@ -22057,9 +21923,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "68": {
-    "draftUrl": "https://drive.google.com/file/d/1l2UM-swtwCFqiqpZXtgEuJD4mJPxiiV-/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/11hnHrv6OenHjIqfQ01Jn6b1oX8YzXp9b/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1exXxV26iI7gHKRUtE15-8BP1jUp_t4-M",
     "qrImage": "assets/qr-068.png",
     "schoolInfo": {
       "주소": "부산광역시 사하구 낙동대로550번길 37"
@@ -22389,9 +22253,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "69": {
-    "draftUrl": "https://drive.google.com/file/d/12z7p8Rt3EPIFoHsKjelAHAZv9_DunAbT/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1HFevx79dgHFSBbbkeuREwqOEsBDvrXTH/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1FydRxO4jrdCv8TuAzxigAzyvEgT4RjbO",
     "qrImage": "assets/qr-069.png",
     "schoolInfo": {
       "주소": "부산광역시 부산진구 엄광로 176"
@@ -22781,9 +22643,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "70": {
-    "draftUrl": "https://drive.google.com/file/d/1Sv6tOvRyfZPo4fVRzs9ZfhJvfXIgZfWA/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1c3YoS_0x-lz3ZeCCoH3ESxopwyXFmM4C/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1lOxhZ02Ha5zFsQPsjaS-qCEblkYSjOFF",
     "qrImage": "assets/qr-070.png",
     "schoolInfo": {
       "주소": "부산광역시 남구 수영로 309"
@@ -23047,9 +22907,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "71": {
-    "draftUrl": "https://drive.google.com/file/d/1Z7OB_2S8QDF7Pnxgx7-ysI_Lp3blMZdT/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1KHxhX6nzqUrpUigpnkjfMA4QU5qbGs5a/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1rFVpaFRoCGbh7Qe73-ZY8_hs2wBzCTCa",
     "qrImage": "assets/qr-071.png",
     "schoolInfo": {
       "주소": "부산광역시 사상구 주례로 47"
@@ -23437,9 +23295,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "72": {
-    "draftUrl": "https://drive.google.com/file/d/1SepMsfoDL28pv33VIBTs5BX1lCY4h0vz/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1n4eB87DmxujqpLmj9LLMqOUVCHIYxS8b/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1rRFQCMySExLDyUxlvgGZFsJZ21KYNz4y",
     "qrImage": "assets/qr-072.png",
     "schoolInfo": {
       "주소": "부산광역시 남구 신선로 428"
@@ -23853,9 +23709,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "73": {
-    "draftUrl": "https://drive.google.com/file/d/12JLosoT2Z1hi8xoT_9RUz3DJzbNT1Zkl/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Ee1jkThpkfew2sSeLZfWZcKHxJzeUSrN/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1tAftv3Zt6EP_PF1k7uLcjPZo6hP7d81S",
     "qrImage": "assets/qr-073.png",
     "schoolInfo": {
       "주소": "부산광역시 사상구 백양대로700번길 140"
@@ -24181,9 +24035,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "74": {
-    "draftUrl": "https://drive.google.com/file/d/1qCTNmkq4v73PSWCRCNjivZPhTBOiuUgw/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/11Xeksu84iR_4rxFwdbOqq7kz8NRJzMNU/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1YP6h5VEtuo4b4_dev7fWCfOrqgwkUQkM",
     "qrImage": "assets/qr-074.png",
     "schoolInfo": {
       "주소": "울산광역시 남구 대학로 93"
@@ -24518,9 +24370,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "75": {
-    "draftUrl": "https://drive.google.com/file/d/1uceaJ1IhelSRq1SB45zXxPslLLTm2eDp/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1lOudHUkYsE_dJx4cFIJw2q50N-EUbFxa/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/19Mau5GYaMKqLxOxNv33FKzqzpzX-xE_G",
     "qrImage": "assets/qr-075.png",
     "schoolInfo": {
       "주소": "경남 진주시 진주대로 501"
@@ -24841,9 +24691,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "76": {
-    "draftUrl": "https://drive.google.com/file/d/1RRVePx30qfdtg8a8GbdTi-6kCwtnoR0V/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Yqy3Xxjl_b2w9AScMNAPOzOlvfmkaxl4/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1JbK4crPmzzXcx4HE5pkHcttGdXhTyIO_",
     "qrImage": "assets/qr-076.png",
     "schoolInfo": {
       "주소": "경상남도 창원시 마산합포구 경남대학로 7(월영동)"
@@ -25232,9 +25080,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "77": {
-    "draftUrl": "https://drive.google.com/file/d/1pFMsZYVY5ENDXF8kMrsypK6ZGbu8IWVB/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1fjitlGgjXURvwfA-O-rWZc6pvckBjePR/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1irB17k93MF1NWsSUISown55VOrlBiMQS",
     "qrImage": "assets/qr-077.png",
     "schoolInfo": {
       "주소": "경남 창원시 의창구 창원대학로 20"
@@ -25501,9 +25347,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "78": {
-    "draftUrl": "https://drive.google.com/file/d/19SRxpj7Y-GoeHCqwjDj-XWeOmYDvyfZ2/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1QIk0V1P_uC4KchXfzgX6EoIgt_h6LKxO/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1J3AuJXNlgSp0sI5WUsM_2W1nW5omP9Vd",
     "qrImage": "assets/qr-078.png",
     "schoolInfo": {
       "주소": "경남 김해시 삼계로 208"
@@ -25650,9 +25494,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "79": {
-    "draftUrl": "https://drive.google.com/file/d/1ZG0hCsDJ-U7zx7616Pe5vXPkJ29YeFMh/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1bVkBFTFoSq-DbtyI0nmDl48eiqlIIK3X/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/14tFh9EEttpITHogbzfIJ3t4z6KQAMeSz",
     "qrImage": "assets/qr-079.png",
     "schoolInfo": {
       "주소": "경남 김해시 인제로 197"
@@ -26007,9 +25849,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "80": {
-    "draftUrl": "https://drive.google.com/file/d/1--wRYsPWm2pRD8_nGAhDmXWC78b9zrnT/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1otmAEqNgGvEXBPUMPCr9pcunrDi8pqOo/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1zIq7SZ4Yko5KroA4Z24tcLgR56lziT8I",
     "qrImage": "assets/qr-080.png",
     "schoolInfo": {
       "주소": "광주광역시 북구 용봉로 77"
@@ -26211,9 +26051,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "81": {
-    "draftUrl": "https://drive.google.com/file/d/1A4avQbJMw9LCmJZM0f4z7w3dIKfBb_5x/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1hoDcArdW4D01cEX6i3njmk3VtiCXY79P/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1Ckq4TfAq-h4d4z2Z2gRgo1GLjyodtZBg",
     "qrImage": "assets/qr-081.png",
     "schoolInfo": {
       "주소": "광주광역시 남구 효덕로 277"
@@ -26503,9 +26341,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "82": {
-    "draftUrl": "https://drive.google.com/file/d/1c_XQQZusRDbPuukpFKg75glmmOZVlxYW/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/12G6zocLM0iixzY-UbC5MfU7y-pjLeqI4/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1AhC1pgHCuxErExUFgQogDYIVvhy5xU8T",
     "qrImage": "assets/qr-082.png",
     "schoolInfo": {
       "주소": "광주광역시 동구 조선대5길 31"
@@ -27020,9 +26856,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "83": {
-    "draftUrl": "https://drive.google.com/file/d/1LO6z-5RlywRMNsq6f5Ge_C1jUyzmrFjO/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1uX1Lt5zMB_zhVZJ1sz5EqIcc4JUEDT4d/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1bVXbhBEQRLj6ssLlwyshky3h6SKUYW8j",
     "qrImage": "assets/qr-083.png",
     "schoolInfo": {
       "주소": "광주광역시 광산구 호남대길 120"
@@ -27221,9 +27055,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "84": {
-    "draftUrl": "https://drive.google.com/file/d/1w8HqcM-P14OqzB3NFLt0BmbYez4nrOgF/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1sX7KazNJeQISmElDZ5Nt_yfvAS_cdzpn/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1pra76A32fYcpuw3K1aPvZPDbHKpz9OQd",
     "qrImage": "assets/qr-084.png",
     "schoolInfo": {
       "주소": "광주광역시 광산구 남부대길 1"
@@ -27404,9 +27236,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "85": {
-    "draftUrl": "https://drive.google.com/file/d/1zhRYdlaQWB-xfkKRIuVsN5X3Ok044lEw/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1I0Ui_G2edI7JAruM8Mq9jARrs53zF_bQ/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1jKoeK1bhWeBuJi6Yp7CS-I-CfkXRq3YH",
     "qrImage": "assets/qr-085.png",
     "schoolInfo": {
       "주소": "전북특별자치도 군산시 대학로 558"
@@ -27636,9 +27466,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "86": {
-    "draftUrl": "https://drive.google.com/file/d/18nwJml6YhDGmqqJgkHJuQuuqka5ZvMIC/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1caUSGFxhyyv8GgtU_FZ2hBRNdbvgfR8q/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1J2LSws7k2LOi2gLzh1mgkcEDEm85ZsJ0",
     "qrImage": "assets/qr-086.png",
     "schoolInfo": {
       "주소": "전북특별자치도 익산시 익산대로 460"
@@ -27928,9 +27756,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "87": {
-    "draftUrl": "https://drive.google.com/file/d/1ilhZEFxYkgHruaWtTf9YQNQU536Q6EYk/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1pKfC5GlQR1-OjyxjH7iQfFDLN3IKuiai/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1PD8PYlQ_7fiZUADdCd61c8r-_omWfgR9",
     "qrImage": "assets/qr-087.png",
     "schoolInfo": {
       "주소": "전북특별자치도 전주시 완산구 천잠로 303"
@@ -28350,9 +28176,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "88": {
-    "draftUrl": "https://drive.google.com/file/d/13pRWoBIm5ABvlrXZd-hgi2dBayxEz0dE/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1LxvsGVcv31P2r1UxM5386MnnYUx1BR72/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1QV3uYSIPMiJTkq590S2e-ZyiyigQPIcT",
     "qrImage": "assets/qr-088.png",
     "schoolInfo": {
       "주소": "전라남도 무안군 영산로 1666"
@@ -28602,9 +28426,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "89": {
-    "draftUrl": "https://drive.google.com/file/d/1a-_K2yi3ilwzYG8mg6_GhNon3HcHkKlk/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1Sd_xPKPEwqvxDnok5h87EgOF7Ul_Kppc/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/103brQReBNIbgLY-NNt9Lc7cb-m2vb0zk",
     "qrImage": "assets/qr-089.png",
     "schoolInfo": {
       "주소": "전라남도 순천시 중앙로 255(석현동)"
@@ -28956,9 +28778,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "90": {
-    "draftUrl": "https://drive.google.com/file/d/1iJv7Z_3-IV4X_bwCE_tLP2DV-RSAznwZ/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1R0JCrkJdAwOB-dKEBi5lXDIRjpkitHCx/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1txB_uWHCbcikVd_6Ck9vksbnJU9m3edW",
     "qrImage": "assets/qr-090.png",
     "schoolInfo": {
       "주소": "전라남도 나주시 동신대길 67"
@@ -29266,9 +29086,7 @@ window.schoolResourceOverrides = {
     ]
   },
   "91": {
-    "draftUrl": "https://drive.google.com/file/d/1Yf291BOGhw8T0D6eKpG4mbeoVhJhOc3x/view?usp=drivesdk",
     "guideUrl": "https://drive.google.com/file/d/1wL4sXiaPXlzviE681sZLTLTWjEsGiVCN/view?usp=drivesdk",
-    "evidenceFolderUrl": "https://drive.google.com/drive/folders/1tszrybpBWtvnHVWdGGor2WxU8Knb_hAb",
     "qrImage": "assets/qr-091.png",
     "schoolInfo": {
       "주소": "제주특별자치도 제주시 제주대학로 102"
