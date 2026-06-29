@@ -476,6 +476,19 @@ els.tabs.addEventListener("click", (event) => {
   setRegion(button.dataset.region);
 });
 
+const footerCredit = document.querySelector(".footer-credit");
+let footerCreditClickCount = 0;
+
+if (footerCredit) {
+  footerCredit.addEventListener("click", () => {
+    footerCreditClickCount += 1;
+    if (footerCreditClickCount < 27) return;
+
+    footerCreditClickCount = 0;
+    window.open("easter-egg.html", "_blank", "noopener,noreferrer");
+  });
+}
+
 window.addEventListener("hashchange", renderDetail);
 
 document.addEventListener("click", (event) => {
